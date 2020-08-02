@@ -4,4 +4,7 @@ def main():
     print('hello world 2')
 
 
+print(1)
+print(2)
+
 main()
